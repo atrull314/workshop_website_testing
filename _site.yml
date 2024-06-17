@@ -1,0 +1,16 @@
+name: "U-BDS bulk RNA-seq workshop (July 09-10, 2024)"
+output-dir: "docs"
+navbar:
+    title: "U-BDS bulk RNA-seq workshop (July 09-10, 2024)"
+    left:
+    - text: "Home"
+      href: index.html
+    - text: "Install Instructions"
+      href: installation.html
+    - text: "FAQ"
+      href: faq.html
+
+output:
+    html_document:
+        css: "style.css"
+        theme: cosmo

@@ -1,0 +1,11 @@
+# FAQ
+
+> **Do I need to install R, RStudio, and other software before the workshop?**
+>
+> Yes, please visit the [Install Instructions](installation.html) section of the site.
+>
+> All software and packages should be installed before the workshop begins.
+
+> **Will lunch be provided?**
+>
+> Lunch and snacks will be provided to all participants and helpers each day.

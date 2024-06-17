@@ -1,0 +1,74 @@
+---
+title: "University of Alabama at Birmingham: July 09-10, 2024"
+---
+
+# UAB Biological Data Science Workshop
+
+> University of Alabama at Birmingham
+>
+> July 09-10, 2024
+>
+> 9:00am - 5:00 pm CST
+>
+> **Instructors**: TBD
+>
+> **Helpers**: TBD
+>
+> **Register now at [this link](https://events.uab.edu/en/6g1Y8if7/u-bds-bulk-rnaseq-workshop-4a2ePZuPa1/overview)**
+
+## General Information
+
+This event is a two-day example-driven hands-on workshop designed to teach introductory Bulk RNA Seq. The workshop will cover the following topics:
+
+-   Introduction to raw data management and data exploration.
+
+-   Secondary analysis with nf-core/rnaseq.
+
+-   Tertiary analysis including quality control, data normalization, gene annotation, gene enrichment analysis.
+
+-   Fundamentals of data visualization for transcriptomics and data interpretation.
+
+This workshop is designed as a foundation upon which more specialized skills can be built, but will not delve into transcriptomics beyond bulk RNA-seq or other advanced topics in computational biology or software development. These topics will be covered in later workshops.
+
+**Who:** The course is aimed at graduate students and other researchers. **No prior knowledge of rnaseq analysis tools presented at this workshop is needed. However, it is heavily encouraged to have a level of familiarity with R and unix.**
+
+**Where:**
+
+**When:** July 09-10, 2024
+
+**Requirements:** Participants must bring a laptop with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on. Please see the [installation instructions](installation.html) to ensure all required tools and packages are setup prior to the workshop
+
+**Accessibility:** We are committed to making this workshop accessible to everybody. For workshops at a physical location, the workshop organizers have checked that:
+
+-   The room is wheelchair / scooter accessible.
+
+-   Accessible restrooms are available.
+
+Materials will be provided in advance of the workshop and large-print handouts are available if needed by notifying the organizers in advance. If we can help making learning easier for you (e.g. sign-language interpreters, lactation facilities) please get in touch (using contact details below) and we will attempt to provide them.
+
+**Contact:** Please email [kdaughtry\@uabmc.edu](mailto:kdaughtry@uabmc.edu) for more information
+
+**Roles:** The roles for this workshop (who will be doing what) will be the same as the roles present in a Software Carpentries workshop. To learn more about the roles, refer the [the Software Carpentries Workshop FAQ](https://carpentries.org/workshop_faq/#what-are-the-roles-of-everyone-participating-in-a-workshop)
+
+## Collaborative Notes
+
+We will use this [Etherpad document](https://etherpad.wikimedia.org/p/uab-2024-07-09) for chatting, taking notes, and sharing URLs and bits of code
+
+## Schedule
+
+| Day 1 |                                     | Day 2 |                                                |
+|-------------|--------------------|-------------|--------------------------|
+| 08:00 | Sign-in and Setup & Troubleshooting | 08:30 | Sign-in                                        |
+| 08:50 | Introduction & Welcome Session      | 09:00 | Data Assumptions, DEG Analysis, and Annotation |
+| 09:00 | Intro to Secondary Analysis         | 10:30 | Morning Break                                  |
+| 10:30 | Morning Break                       | 10:45 | Data Exploration and DEG Visualization         |
+| 10:45 | Intro to Secondary Analysis         | 12:15 | Lunch                                          |
+| 12:00 | Lunch                               | 13:00 | DEG Visualization (continued)                  |
+| 12:45 | Intro to Secondary Analysis         | 13:30 | Enrichment Analysis & Visualization            |
+| 14:00 | Break                               | 15:00 | Break                                          |
+| 14:15 | Intro to DESeq2 and QC              | 15:15 | GSEA Analysis & Visualization                  |
+| 17:00 | END                                 | 16:45 | END                                            |
+
+## Installation Instructions
+
+Please ensure you follow all instructions on [this page](installation.html)
