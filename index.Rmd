@@ -57,17 +57,18 @@ We will use this [Etherpad document](https://etherpad.wikimedia.org/p/uab-2024-0
 ## Schedule
 
 | Day 1 |                                     | Day 2 |                                                |
-|-------------|--------------------|-------------|--------------------------|
+|----------------|------------------|----------------|-----------------------|
 | 08:00 | Sign-in and Setup & Troubleshooting | 08:30 | Sign-in                                        |
 | 08:50 | Introduction & Welcome Session      | 09:00 | Data Assumptions, DEG Analysis, and Annotation |
-| 09:00 | Intro to Secondary Analysis         | 10:30 | Morning Break                                  |
-| 10:30 | Morning Break                       | 10:45 | Data Exploration and DEG Visualization         |
-| 10:45 | Intro to Secondary Analysis         | 12:15 | Lunch                                          |
-| 12:00 | Lunch                               | 13:00 | DEG Visualization (continued)                  |
-| 12:45 | Intro to Secondary Analysis         | 13:30 | Enrichment Analysis & Visualization            |
-| 14:00 | Break                               | 15:00 | Break                                          |
-| 14:15 | Intro to DESeq2 and QC              | 15:15 | GSEA Analysis & Visualization                  |
-| 17:00 | END                                 | 16:45 | END                                            |
+| 09:00 | Introduction to RNA-Seq Analysis    | 10:30 | Morning Break                                  |
+| 09:30 | Introduction to nf-core rnaseq      | 10:45 | Data Exploration and DEG Visualization         |
+| 10:30 | Morning Break                       | 12:15 | Lunch                                          |
+| 10:45 | Executing nf-core rnaseq            | 13:00 | DEG Visualization (continued)                  |
+| 12:00 | Lunch                               | 13:30 | Enrichment Analysis & Visualization            |
+| 12:45 | Reviewing RNASeq Results            | 15:00 | Break                                          |
+| 14:00 | Break                               | 15:15 | GSEA Analysis & Visualization                  |
+| 14:15 | Intro to DESeq2 and QC              | 16:45 | Wrap-Up & Additional Resources                 |
+| 17:00 | END                                 | 17:00 | END                                            |
 
 ## Installation Instructions
 
