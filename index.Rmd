@@ -30,9 +30,9 @@ This event is a two-day example-driven hands-on workshop designed to teach intro
 
 This workshop is designed as a foundation upon which more specialized skills can be built, but will not delve into transcriptomics beyond bulk RNA-seq or other advanced topics in computational biology or software development. These topics will be covered in later workshops.
 
-**Who:** The course is aimed at graduate students and other researchers. **No prior knowledge of rnaseq analysis tools presented at this workshop is needed. However, it is heavily encouraged to have a level of familiarity with R and unix.**
+**Who:** The course is aimed at graduate students and other researchers. **No prior knowledge of RNA-seq analysis tools presented at this workshop is needed. However, it is heavily encouraged to have a level of familiarity with R and UNIX.**
 
-**Where:**
+**Where:** Heritage Hall Room 104 (1401 University Blvd, Birmingham, AL 35233)
 
 **When:** July 09-10, 2024
 
@@ -57,7 +57,7 @@ We will use this [Etherpad document](https://etherpad.wikimedia.org/p/uab-2024-0
 ## Schedule
 
 | Day 1 |                                  | Day 2 |                                                |
-|------:|----------------------------------|------:|------------------------------------------------|
+|--------------:|-------------------|--------------:|------------------------|
 | 08:00 | Sign-in & Setup                  | 08:30 | Sign-in                                        |
 | 08:50 | Introduction & Welcome Session   | 09:00 | Data Assumptions, DEG Analysis, and Annotation |
 | 09:00 | Introduction to RNA-Seq Analysis | 10:30 | Morning Break                                  |
